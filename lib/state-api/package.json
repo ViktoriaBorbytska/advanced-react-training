@@ -1,0 +1,14 @@
+{
+  "name": "state-api",
+  "version": "1.0.0",
+  "description": "StateApi\u001b[D\u001b[D\u001b[D \u001b[C\u001bAPI",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
